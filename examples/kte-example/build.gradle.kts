@@ -8,7 +8,7 @@ plugins {
     kotlin("jvm") version "1.9.23"
     kotlin("plugin.spring") version "1.9.23"
     kotlin("kapt") version "1.9.23"
-    id("gg.jte.gradle") version("3.1.12")
+    id("gg.jte.gradle") version("3.2.1")
 }
 
 

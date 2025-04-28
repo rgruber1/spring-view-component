@@ -4,7 +4,7 @@ plugins {
     java
     id("org.springframework.boot") version "3.2.4"
     id("io.spring.dependency-management") version "1.1.4"
-    id("gg.jte.gradle") version("3.1.12")
+    id("gg.jte.gradle") version("3.2.1")
 }
 
 group = "de.tschuehly"

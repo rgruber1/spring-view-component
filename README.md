@@ -286,7 +286,7 @@ sourceSets {
 
 ```kotlin
 plugins {
-    id("gg.jte.gradle") version("3.1.12")
+    id("gg.jte.gradle") version("3.2.1")
 }
 
 implementation("de.tschuehly:spring-view-component-jte:0.8.3")
@@ -316,7 +316,7 @@ jte{
       <plugin>
         <groupId>gg.jte</groupId>
         <artifactId>jte-maven-plugin</artifactId>
-        <version>3.1.12</version>
+        <version>3.2.1</version>
         <configuration>
           <sourceDirectory>${project.basedir}/src/main/java</sourceDirectory>
           <contentType>Html</contentType>
@@ -348,7 +348,7 @@ jte{
 ```kotlin
 
 plugins {
-    id("gg.jte.gradle") version ("3.1.12")
+    id("gg.jte.gradle") version ("3.2.1")
 }
 
 dependencies {
